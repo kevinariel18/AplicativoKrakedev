@@ -2,7 +2,7 @@
 ConfiguraciónIDE/
 
 # Excluir imágenes PNG en EvidenciasDelDesarrollo
-EvidenciasDelDesarrollo/*.png
+EvidenciasDelDesarrollo/*jpeg.png
 
 # Excluir Manual.txt
 EvidenciasDelDesarrollo/Manual.txt
